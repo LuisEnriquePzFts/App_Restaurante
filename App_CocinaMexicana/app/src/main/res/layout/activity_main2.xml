@@ -1,0 +1,79 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/Cabecera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="67dp"
+            android:background="@drawable/madera"
+            android:src="@drawable/chef" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/Cocina"
+            android:textSize="30dp"
+            android:background="@drawable/madera"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/fondos"
+        android:layout_width="wrap_content"
+        android:layout_height="170dp">
+
+        <ImageView
+            android:layout_width="737dp"
+            android:layout_height="173dp"
+            android:background="@drawable/madera"
+            android:src="@drawable/mexico2" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/madera"
+        android:text="@string/sopa"
+        android:textSize="20dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/madera"
+        android:text="@string/carne"
+        android:textSize="20dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/madera"
+        android:text="@string/pez"
+        android:textSize="20dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/madera"
+        android:text="@string/ensaladas"
+        android:textSize="20dp" />
+
+    <Button
+        android:layout_width="410dp"
+        android:layout_height="46dp"
+        android:background="@drawable/madera"
+        android:text="@string/postre"
+        android:layout_marginTop="3dp"
+        android:textSize="20dp"/>
+
+
+</LinearLayout>

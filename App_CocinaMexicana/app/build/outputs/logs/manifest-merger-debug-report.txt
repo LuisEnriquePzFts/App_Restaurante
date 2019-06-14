@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\0474ff2b02263561b21ee0e2ed070a15\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\f787d6ceb9863869d594717846f8ad09\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\1992c36b7a45abeaa70313570e51a802\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\88944098ef74f8269d25e17b6e03098d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\e6504cbb936be7e22cce51a38a8ba451\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\0612c333a8ee8d3d8a256bfbf64cf5c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\eacbefeba8ac8b7377540e8242881768\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\d12381d841003a9009c6dd560f1781ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\43a6abfda44272e79855d5a45f64d9b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\dd11386aeb8bb5882a0e53f63d79b3fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\4f747dc474da7e08cc72a6fd430079d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\df4184bdef1885b43f98bdf78f6c41df\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\bee6be008c8170aeccaec30e8c34e25b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\b896d8bf1e50e1ea6f1fc0303a8ea411\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\8fb62b18180033475fb049f979ffd8e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\60796a4e6660b2dfb15bf35210012ce6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\ae2324fad6537d9b3ec2b306de16d670\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\472983d4b7446fc8fdf92947413a7cb8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\cdc507d804e141bc40661fb71030b3ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\514b5a2421390440e6237c74704a53f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\b06cbf24d673b13b498febc3d34c74f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\561f581dc1d2287e0247d1db12820466\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\5f34313977dc2bd7b77e3dcdc50bab6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\5e726d09f97bba1f93dd7750b134891d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\d89bb90eed8ec264bf7d4ef47d483831\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\0a1d342128ae797ffe9bc4b9b8a78ec9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\e2627c12a28efeb4e9dc46fc6aa9446a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\f787d6ceb9863869d594717846f8ad09\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\f787d6ceb9863869d594717846f8ad09\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\60796a4e6660b2dfb15bf35210012ce6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\60796a4e6660b2dfb15bf35210012ce6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\ae2324fad6537d9b3ec2b306de16d670\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\ae2324fad6537d9b3ec2b306de16d670\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\60796a4e6660b2dfb15bf35210012ce6\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.app_cocinamexicana.MainActivity
+ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\0474ff2b02263561b21ee0e2ed070a15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\0474ff2b02263561b21ee0e2ed070a15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\f787d6ceb9863869d594717846f8ad09\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\f787d6ceb9863869d594717846f8ad09\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\1992c36b7a45abeaa70313570e51a802\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\1992c36b7a45abeaa70313570e51a802\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\88944098ef74f8269d25e17b6e03098d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\88944098ef74f8269d25e17b6e03098d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\e6504cbb936be7e22cce51a38a8ba451\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\e6504cbb936be7e22cce51a38a8ba451\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\0612c333a8ee8d3d8a256bfbf64cf5c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\0612c333a8ee8d3d8a256bfbf64cf5c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\eacbefeba8ac8b7377540e8242881768\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\eacbefeba8ac8b7377540e8242881768\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\d12381d841003a9009c6dd560f1781ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\d12381d841003a9009c6dd560f1781ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\43a6abfda44272e79855d5a45f64d9b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\43a6abfda44272e79855d5a45f64d9b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\dd11386aeb8bb5882a0e53f63d79b3fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\dd11386aeb8bb5882a0e53f63d79b3fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\4f747dc474da7e08cc72a6fd430079d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\4f747dc474da7e08cc72a6fd430079d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\df4184bdef1885b43f98bdf78f6c41df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\df4184bdef1885b43f98bdf78f6c41df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\bee6be008c8170aeccaec30e8c34e25b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\bee6be008c8170aeccaec30e8c34e25b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\b896d8bf1e50e1ea6f1fc0303a8ea411\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\b896d8bf1e50e1ea6f1fc0303a8ea411\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\8fb62b18180033475fb049f979ffd8e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\8fb62b18180033475fb049f979ffd8e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\60796a4e6660b2dfb15bf35210012ce6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\60796a4e6660b2dfb15bf35210012ce6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\ae2324fad6537d9b3ec2b306de16d670\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\ae2324fad6537d9b3ec2b306de16d670\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\472983d4b7446fc8fdf92947413a7cb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\472983d4b7446fc8fdf92947413a7cb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\cdc507d804e141bc40661fb71030b3ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\cdc507d804e141bc40661fb71030b3ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\514b5a2421390440e6237c74704a53f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\514b5a2421390440e6237c74704a53f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\b06cbf24d673b13b498febc3d34c74f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\b06cbf24d673b13b498febc3d34c74f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\561f581dc1d2287e0247d1db12820466\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\561f581dc1d2287e0247d1db12820466\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\5f34313977dc2bd7b77e3dcdc50bab6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\5f34313977dc2bd7b77e3dcdc50bab6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\5e726d09f97bba1f93dd7750b134891d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\5e726d09f97bba1f93dd7750b134891d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\d89bb90eed8ec264bf7d4ef47d483831\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\d89bb90eed8ec264bf7d4ef47d483831\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\0a1d342128ae797ffe9bc4b9b8a78ec9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\0a1d342128ae797ffe9bc4b9b8a78ec9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\e2627c12a28efeb4e9dc46fc6aa9446a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luise\.gradle\caches\transforms-2\files-2.1\e2627c12a28efeb4e9dc46fc6aa9446a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luise\App_CocinaMexicana\app\src\main\AndroidManifest.xml

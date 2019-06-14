@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App_CocinaMexicana</string>
+    <string name="Cocina">COCINA MEXICANA</string>
+    <string name="sopa">SOPAS</string>
+    <string name="carne">CARNES Y AVES</string>
+    <string name="pez">PESCADOS Y MARISCOS</string>
+    <string name="ensaladas">ENSALADAS</string>
+    <string name="postre">POSTRES</string>
+    <string name="cauche">CAUCHE DE QUESO</string>
+    <string name="Chilcano">CHILCANO</string>
+    <string name="chupe">CHULPE DE CAMARONES</string>
+    <string name="chupe2">CHULPE DE CAMARONES YAUNQ</string>
+    <string name="chupe3">CHULPE DE HABAS</string>
+    <string name="texto1">1.- Hierve el agua con la pechuga de pollo, la cebolla y el ajo durante 25 minutos</string>
+    <string name="texto2">2.- Retira la pechuga, deja enfriar y deshebra.</string>
+    <string name="texto3">3.- Agrega las zanahorias, los ejotes y los garbanzos al caldo resultante y cuece durante 15 minutos, a fuego medio. Sazona con sal</string>
+    <string name="texto4">4.- BAJA la flama e incorpora los chiles y el epazote. Cocina durante 10 minutos.</string>
+    <string name="text05">5.- SIRVE con el pollo deshebrado, aguacate y queso. Acompaña con limón y la cebolla picada.</string>
+    <string name="ing1">1 1/2 litros Agua </string>
+    <string name="ing2">1 pechuga Pollo</string>
+    <string name="ing3">1/2 Cebolla</string>
+    <string name="ing4">1 1/2 tazas Garbanzo precocidos</string>
+    <string name="ing5">3 Chile Chipotle en escabeche</string>
+    <string name="ing6">150 gr Queso Panela en cubos</string>
+</resources>
